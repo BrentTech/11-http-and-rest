@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "gum",
+      "display_name": "Chewing Gum",
+      "description": "A delicious distraction!"
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "candy bar",
+      "display_name": "Candy Bar",
+      "description": "Hand-held sweet treat that will give you a nice sugar rush!",
+      "id": 4
+    },
+    {
+      "name": "candy bar",
+      "display_name": "Candy Bar",
+      "description": "Hand-held sweet treat that will give you a nice sugar rush!",
+      "id": 5
+    },
+    {
+      "name": "candy",
+      "display_name": "Candy",
+      "description": "sweet treat",
+      "id": 6
+    },
+    {
+      "name": "candy candy",
+      "display_name": "Candy Rush",
+      "description": "a great sweet treat",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "gum",
+      "name": "Orbitz",
+      "display_name": "Orbitz Chewing Gum Sweet Mint",
+      "description": "Sweet Mint flavor of chewing gum by Orbitz."
+    }
+  ]
+}
